@@ -1,0 +1,16 @@
+{
+    "projectName": "TravisCITest",
+    "username": "audoveliz@admincert.com",
+    "id": "1e772c90-8f03-11e7-bb37-7f656a3cf2be",
+    "namespace": "",
+    "environment": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "workspace": "/Users/audocastedo/Documents/Mm-Workspace",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
