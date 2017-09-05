@@ -1,0 +1,581 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"call",
+				"callFuture"
+			],
+			[
+				"test",
+				"testmethod"
+			],
+			[
+				"as",
+				"assertEquals()"
+			],
+			[
+				"AWS",
+				"AWS_Message__c"
+			],
+			[
+				"get",
+				"PUBLIC getListAWSMessage(String objectName, Integer quantity) \tSet"
+			],
+			[
+				"new",
+				"newMap"
+			],
+			[
+				"Syt",
+				"System\t[Standard Apex Class]"
+			],
+			[
+				"S",
+				"Status__c"
+			],
+			[
+				"Suc",
+				"SuccessStatusOfLastAWSUpdate__c"
+			],
+			[
+				"ass",
+				"assertAccLi"
+			],
+			[
+				"sObj",
+				"sObject_Type__c"
+			],
+			[
+				"ac",
+				"actualShiftMessage"
+			],
+			[
+				"Account",
+				"AccountId"
+			],
+			[
+				"create",
+				"PUBLIC createParser(String jsonString) \tsystem.JSONParser"
+			],
+			[
+				"sObject",
+				"sObject_Type__c"
+			],
+			[
+				"acc",
+				"accountMap"
+			],
+			[
+				"objec",
+				"objectTypeName"
+			],
+			[
+				"obect",
+				"objectTypeName"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"HTTPRe",
+				"HttpResponse\t[Standard Apex Class]"
+			],
+			[
+				"ol",
+				"oldMap"
+			],
+			[
+				"rec",
+				"recordsToSend"
+			],
+			[
+				"sO",
+				"sObject"
+			],
+			[
+				"sObje",
+				"SObject"
+			],
+			[
+				"Accounts",
+				"accounts"
+			],
+			[
+				"sho",
+				"PUBLIC showCloneBtn\tBoolean"
+			],
+			[
+				"Page",
+				"PageReference\t[Standard Apex Class]"
+			],
+			[
+				"BSI",
+				"BSIPermission"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"SkipCu",
+				"SkipCustomer__c"
+			],
+			[
+				"qu",
+				"PUBLIC quoteSettings\tQuoteSetting__c"
+			],
+			[
+				"task",
+				"taskCompleted"
+			],
+			[
+				"di",
+				"disabled\t(Boolean)"
+			],
+			[
+				"on",
+				"onclick\t(String)"
+			],
+			[
+				"comm",
+				"apex:commandLink"
+			],
+			[
+				"r",
+				"reRender\t(Object)"
+			],
+			[
+				"out",
+				"apex:outputText"
+			],
+			[
+				"Incom",
+				"Incomplete_Sales_Info__c"
+			],
+			[
+				"I",
+				"Incomplete_Sales_Info__c"
+			],
+			[
+				"o",
+				"OwnerId"
+			],
+			[
+				"SDQA",
+				"SDQA__c"
+			],
+			[
+				"SD",
+				"SDQA__c"
+			],
+			[
+				"page",
+				"apex:pageBlockSection"
+			],
+			[
+				"pageBlo",
+				"apex:pageBlockSection"
+			],
+			[
+				"Field",
+				"FieldSetMember"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"last_filter": "Snippet: ",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"visual",
+				"Set Syntax: Visualforce"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 494.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/audocastedo/Documents/Mm-Workspace/TravisCITest",
+		"/Users/audocastedo/Documents/Mm-Workspace/TravisCITest/src"
+	],
+	"file_history":
+	[
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/triggers/bg_trg_Shift_au.trigger",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/bg_AWSTriggerUtils.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/bg_AWSTriggerUtils_Test.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/bg_RESTCalloutUtil.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/bg_RESTCalloutUtilTest.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/bg_TeamMember_UnitTestHelper.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/bg_SObjectUtils_Test.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/bg_SObjectUtils.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/triggers/bg_trg_AWSMessage_bu.trigger",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/bg_AWSCallout_Delete.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/bg_ContractTriggersTest.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/bg_Contract_UnitTestHelper.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/bg_Account_UnitTestHelper.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/bg_ContactTriggerHandlerTest.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/ContactTriggerHandler.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/AccountTriggerHandlerTest.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/bg_AccountUtilsTest.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/triggers/bg_trg_Shift_bd.trigger",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/bg_AccountGroupMembershipUtilsTest.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/triggers/AccountGroupMembership.trigger",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/bg_AccountGroup_UnitTestHelper.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/AccountGroupMembershipTriggerHandler.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/bg_AccountGroupUtilsTest.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/bg_CustomSettingUtils.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/bg_Shift_UnitTestHelper.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/AccountTriggerHandler.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/LocationTriggerHandler.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/bg_MockHttpResponseGenerator.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/bg_RESTCallout_UnitTestHelper.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/bg_ZSubscriptionUtils_Test.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/triggers/bg_trg_AWSMessage_ai.trigger",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/triggers/AccountTrigger.trigger",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/bg_User_UnitTestHelper.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/bg_AccountUtils.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/triggers/bg_trg_TeamMember_bd.trigger",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/bg_AWSJSONGenerationUtilTest.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/bg_AWSJSONGenerationUtil.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/triggers/contact_bd.trigger",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/bg_Contact_UnitTestHelper.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/bg_ZuoraRestCalloutMock.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/bg_ZuoraCalloutWrappers.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/triggers/bg_trg_Subsidiary_bd.trigger",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/triggers/LocationTrigger.trigger",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/triggers/bg_trg_Shift_ai.trigger",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/triggers/AccountGroupTrigger.trigger",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/AccountGroupTriggerHandler.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/triggers/contact_au.trigger",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/triggers/contact_ai.trigger",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/triggers/contact_ad.trigger",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/triggers/contract_au.trigger",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/triggers/contract_ai.trigger",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/triggers/contact_bd.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/triggers/bg_trg_TeamMember_ad.trigger",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/bg_TeamMember_Utils.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/triggers/bg_trg_TeamMember_au.trigger",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/triggers/bg_trg_TeamMember_ai.trigger",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/triggers/bg_trg_Subsidiary_ai.trigger",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/bg_SubsidiaryTriggerTest.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes/B2CContactsCreator.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TT Electronics - BG Dev SB/src/pages/tstpopup.page",
+		"/Users/audocastedo/Documents/Mm-Workspace/TT Electronics - BG Dev SB/src/classes/BG_CaseUtilsTest.cls",
+		"/Users/audocastedo/Documents/Mm-Workspace/TT Electronics - BG Dev SB/src/classes/BG_CaseUtils.cls",
+		"/Users/audocastedo/Downloads/SAMLSP-00Db0000000JqNT.xml",
+		"/Users/audocastedo/Documents/Mm-Workspace/RoyalBGDevMW/src/triggers/RPF_OpportunityTrigger.trigger",
+		"/Users/audocastedo/Documents/Cases/00030885/Code/RPF_OpportunityTrigger.trigger",
+		"/Users/audocastedo/Documents/Mm-Workspace/CCS Service Dev Sandbox/src/classes/EmployeeGoogleRegistrationHandler.cls",
+		"/Users/audocastedo/Library/Application Support/Sublime Text 3/Packages/MavensMate/mavensmate.sublime-settings",
+		"/Users/audocastedo/Library/Application Support/Sublime Text 3/Packages/User/mavensmate.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/audocastedo/Documents/01 CCS - GIT",
+			"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes",
+			"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src",
+			"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes",
+			"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src",
+			"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes",
+			"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src",
+			"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes",
+			"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src",
+			"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes",
+			"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src",
+			"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes",
+			"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src",
+			"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes",
+			"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src",
+			"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes",
+			"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src",
+			"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes",
+			"/Users/audocastedo/Documents/Mm-Workspace/BSI Group Brightgen User - QAS/src/classes",
+			"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src",
+			"/Users/audocastedo/Documents/Mm-Workspace/TES Global - Job Science/src/classes",
+			"/Users/audocastedo/Documents/Mm-Workspace/TT Electronics - BG Dev SB/src/classes",
+			"/Users/audocastedo/Documents/Mm-Workspace/TT Electronics - BG Dev SB/src/pages"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"validat",
+			"compile",
+			"$RAMQA",
+			"testProcessAWSCalloutInsertGeneralCustomSettingFailureViaTrigger",
+			"testProcessAWSCalloutInsertObjectCustomSettingFailureViaTrigger",
+			"testProcessAWSCalloutInsertGeneralCustomSettingFailureViaTrigger",
+			"TestGenerateQuoteLineGroups_Success",
+			"bg_QuoteLineGroupGenerator_Test",
+			"Branch__c",
+			"GetContract",
+			"bg_RESTCallout_UnitTestHelper.GetAWSEndpoint",
+			"testProcessAWSCalloutInsertGeneralCustomSettingFailureViaTrigger",
+			"accountGroups",
+			"=SuccessStatusofLastAWSUpdate__c",
+			"= SuccessStatusofLastAWSUpdate__c",
+			"SuccessStatusofLastAWSUpdate__c",
+			"bulk",
+			"bulked",
+			"account",
+			"endpoint",
+			"custom settings",
+			"staging",
+			"stagging",
+			"GetAWSEndpoint",
+			"Test_AWS_Integration__c",
+			"Endpoint__c",
+			"stage-system",
+			"random()*10",
+			"random",
+			"mock",
+			"Helper",
+			"Util",
+			"util",
+			"delete",
+			"insert",
+			"delete",
+			"mock",
+			"delete",
+			"mock",
+			"moche",
+			"mock",
+			"CreateAccountAWSCalloutData",
+			"account",
+			"CreateAccountAWSCalloutData",
+			"update",
+			"mock",
+			"GenerateJSONStringForAWSCallout",
+			"mock",
+			"AVC",
+			"callout",
+			"AWSEndpoint__c",
+			"update",
+			"deleted__c",
+			"deleted",
+			"HttpCalloutMock",
+			"response.setBody",
+			"implements HttpCalloutMock",
+			"HttpCalloutMock",
+			"AWS_Message__c",
+			"username",
+			"TestProcessRecordsForCalloutToAWSFailedDelete",
+			"AWS",
+			"}",
+			"';\n",
+			"UpdateRelatedRecords",
+			"********************************************************************/\n",
+			"}",
+			"';\n",
+			"UpdateRelatedRecords",
+			"override void beforeDelete",
+			"Location",
+			"delete",
+			"beforeDelete",
+			"con:",
+			"contacts",
+			"con",
+			"beforeDelete",
+			"contact",
+			"TeamMember",
+			"Team",
+			"TriggerHandlerFactory",
+			"run",
+			"subsi",
+			"Shift",
+			"loc",
+			"ContactTrigger",
+			"contact",
+			"afterinser",
+			"util",
+			"location",
+			"awsMessage",
+			"LocationTriggerHandler",
+			"clone",
+			"showCloneBtn",
+			"CloneQuote",
+			"RescindOperationsApproval",
+			"retrieveQuoteStatus",
+			"RescindOperationsApproval",
+			"autoski",
+			"autoskipcus",
+			"autoskipC",
+			"getpermis",
+			"autoski",
+			"skipCustomer",
+			"SkipCustomer__c",
+			"customer__c",
+			"ResetQuoteStages",
+			"getQuote",
+			"quote",
+			"controller",
+			"Quote__c",
+			"SkipCustomer__c",
+			"canChangeOwnerForClosedOpps",
+			"cust",
+			"Custom",
+			"BSI",
+			"can",
+			"can ",
+			"permissionSettings",
+			"custom",
+			"BSIPermissionsSetting",
+			"BSIPermissions",
+			"custom",
+			"customg",
+			"SetupCustom",
+			"SetupCustomSetti",
+			"SetupCustomSettings()",
+			"SetupCustomSettings"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "TravisCITest.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
