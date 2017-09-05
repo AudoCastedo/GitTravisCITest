@@ -5,5 +5,9 @@ language: java
 branches:
     only:
       - master
-install:
-ant -v deploy
+
+script:
+- ./scripts/build.sh
+
+script:
+- ./scripts/build.sh
