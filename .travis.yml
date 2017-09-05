@@ -1,1 +1,7 @@
+#Test deploy
 language: java
+
+#safelist
+branches:
+    only:
+      - master
