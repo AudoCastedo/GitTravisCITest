@@ -5,3 +5,5 @@ language: java
 branches:
     only:
       - master
+install:
+ant -v deploy
