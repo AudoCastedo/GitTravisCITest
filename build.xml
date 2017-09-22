@@ -35,8 +35,11 @@
 
     <!-- Deploy the umpackaged set of metada retrieved with retrieveUnPackaged and run test  -->
     <target name="remove">
-        <sf:deploy username="${sf.username}" password="${sf.password}"
-          sessionId="${sf.sessionId}" serverurl="${sf.serverurl}" 
+        <sf:deploy 
+          username="${sf.username}" 
+          password="${sf.password}"
+          sessionId="${sf.sessionId}" 
+          serverurl="${sf.serverurl}" 
           deployRoot="remove"/>
     </target>
     
